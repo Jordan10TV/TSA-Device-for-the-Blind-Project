@@ -97,7 +97,7 @@ STEP 4 - Copy the file TSA_project.py from this repository to a folder on your c
 
 STEP 5 — Change to the download folder and run the Program
 <code>
-cd &gt;TSA Project Folder&lt;
+cd &lt;TSA Project Folder&gt;
 python TSA_project.py
 </code>
 
