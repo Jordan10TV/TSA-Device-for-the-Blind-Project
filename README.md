@@ -4,39 +4,49 @@
 <h4>WHAT IS IT?</h4> A wearable AI powered device designed to help blind and visually impaired people navigate the world safely. The program uses a camera to detect objects and people in real time and tells the user what is around them through voice alerts.
 
 <h4>HOW IT WORKS</h4>
-1. Object Detection
+<ol>
+  <li>
+Object Detection
 Uses a YOLOv8 AI model to detect over 80 different objects
 Draws colored boxes around everything it sees
 Tells the user what the object is and where it is
-<br>
-2. Distance Warning
+  </li>
+<li>
+Distance Warning
 Measures how close objects are based on box size
 Green = far away, safe
 Orange = getting close, caution
 Red = very close, danger
-<br>
-3. Position Alerts
+  </li>
+<li>
+Position Alerts
 Tells the user if something is on their left, right, or straight ahead
 Example: "Warning! Chair on your left"
-<br>
-4. Face Recognition
+  </li>
+<li>
+Face Recognition
 Detects and recognizes familiar faces
 Learns and remembers faces permanently
 Says the persons name when it sees them
 Example: "Warning! Mom on your right"
-<br>
-5. Voice Alerts
+  </li>
+<li>
+Voice Alerts
 Speaks all warnings out loud in real time
 3 different voices to choose from
 Can be muted and unmuted at any time
-<br>
-6. Time Awareness
+  </li>
+<li>
+Time Awareness
 Announces the time when the program starts
 Says good morning, good afternoon, or good evening
 Updates the time every 10 minutes
-<br>
-7. Clear Path
+  </li>
+<li>
+Clear Path
 Says "Clear path ahead" when nothing is detected nearby
+</li>
+</ol>
 <br>
 
 <h4>KEYBOARD COMMANDS</h4>
