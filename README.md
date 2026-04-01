@@ -68,3 +68,38 @@ YOLOv8
 Windows Speech Synthesis
 NumPy
 
+
+
+STEP 1 — Install Python
+Go to python.org/downloads
+Download Python 3.11.9
+Run installer and check "Add Python to PATH"
+Click Install Now
+STEP 2 — Open Terminal
+Press Windows + R
+Type powershell
+Hit Enter
+
+
+STEP 3 — Install Libraries Copy and paste each line and hit Enter:
+python -m pip install opencv-python
+python -m pip install opencv-contrib-python
+python -m pip install ultralytics
+python -m pip install numpy
+python -m pip install pyttsx3
+
+STEP 4 — Run the Program
+cd Downloads
+python TSA_project.py
+
+
+Screenshots 
+
+<img width="948" height="529" alt="Screenshot 2026-03-31 204311" src="https://github.com/user-attachments/assets/f19a899c-ce0c-4948-8eac-bd11702a5b37" />
+<img width="950" height="713" alt="Screenshot 2026-03-31 203618" src="https://github.com/user-attachments/assets/c75cefc0-c4dc-4643-aaca-2dd427d2d66a" />
+
+
+
+
+
+
