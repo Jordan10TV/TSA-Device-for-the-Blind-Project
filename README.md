@@ -1,4 +1,5 @@
-BLIND ASSIST GOGGLES By: Jordan Arbeeny and Braden Harris TSA 2026
+<h1>BLIND ASSIST GOGGLES</h1>
+<h3>By: Jordan Arbeeny and Braden Harris TSA 2026</h3>
 
 WHAT IS IT? A wearable AI powered device designed to help blind and visually impaired people navigate the world safely. The program uses a camera to detect objects and people in real time and tells the user what is around them through voice alerts.
 
