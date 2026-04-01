@@ -32,20 +32,19 @@ Updates the time every 10 minutes
 7. Clear Path
 Says "Clear path ahead" when nothing is detected nearby
 
-CONTROLS
-Key
-Action
-P
-Mute / Unmute voice
-V
-Cycle through voices
-N
-Name a detected face
-Q
-Quit
+<h4>KEYBOARD COMMANDS</h4>
+<table>
+<tr><td>Key</td><td>Action</td></tr>
+<tr><td>P</td><td>Mute / Unmute Voice</td></tr>
+<tr><td>V</td><td>Cycle through voices</td></tr>
+<tr><td>N</td><td>Name a detected face/td></tr>
+<tr><td>Q</td><td>Quit/td></tr>
+
+  
+</table>
 
 
-TECHNOLOGY USED
+<h4>TECHNOLOGY USED</h4>
 Python 3.11
 OpenCV 
 YOLOv8
