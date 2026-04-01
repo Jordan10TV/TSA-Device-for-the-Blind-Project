@@ -77,6 +77,7 @@ Go to https://www.python.org/downloads/release/python-31115/
 Download Python 3.11.x
 Run installer and check "Add Python to PATH"
 Click Install Now
+
 STEP 2 — Open Terminal
 Press Windows + R
 Type powershell
@@ -93,8 +94,10 @@ python -m pip install pyttsx3
 STEP 4 - Copy the file TSA_project.py from this repository to a folder on your computer
 
 STEP 5 — Change to the download folder and run the Program
+<code>
 cd <TSA Project Folder>
 python TSA_project.py
+</code>
 
 
 <h4>Screenshots</h4>
