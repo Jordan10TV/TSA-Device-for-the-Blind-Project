@@ -37,8 +37,8 @@ Says "Clear path ahead" when nothing is detected nearby
 <tr><th>Key</th><th>Action</th></tr>
 <tr><td>P</td><td>Mute / Unmute Voice</td></tr>
 <tr><td>V</td><td>Cycle through voices</td></tr>
-<tr><td>N</td><td>Name a detected face/td></tr>
-<tr><td>Q</td><td>Quit/td></tr>
+<tr><td>N</td><td>Name a detected face</td></tr>
+<tr><td>Q</td><td>Quit</td></tr>
 
   
 </table>
