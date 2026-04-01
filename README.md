@@ -1,5 +1,7 @@
-<h1>BLIND ASSIST GOGGLES</h1>
-<h3>By: Jordan Arbeeny and Braden Harris TSA 2026</h3>
+<h1>ASSISTANCE FOR THE VISION IMPAIRED</h1>
+<h3>By: Jordan Arbeeny and Braden Harris 
+<h4>Christian Brothers Academy</h4>
+<h4>TSA 2026</h4>
 
 <h4>WHAT IS IT?</h4> A wearable AI powered device designed to help blind and visually impaired people navigate the world safely. The program uses a camera to detect objects and people in real time and tells the user what is around them through voice alerts.
 
@@ -68,10 +70,10 @@ YOLOv8
 Windows Speech Synthesis
 NumPy
 
-
+<h4>INSTALLATION INSTRUCTIONS</h4>
 
 STEP 1 — Install Python
-Go to python.org/downloads
+Go to <a href="http://python.org/downloads" /a>
 Download Python 3.11.9
 Run installer and check "Add Python to PATH"
 Click Install Now
