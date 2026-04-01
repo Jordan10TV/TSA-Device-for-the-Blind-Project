@@ -1,9 +1,9 @@
 <h1>BLIND ASSIST GOGGLES</h1>
 <h3>By: Jordan Arbeeny and Braden Harris TSA 2026</h3>
 
-WHAT IS IT? A wearable AI powered device designed to help blind and visually impaired people navigate the world safely. The program uses a camera to detect objects and people in real time and tells the user what is around them through voice alerts.
+<h4>WHAT IS IT?</h4> A wearable AI powered device designed to help blind and visually impaired people navigate the world safely. The program uses a camera to detect objects and people in real time and tells the user what is around them through voice alerts.
 
-HOW IT WORKS
+<h4>HOW IT WORKS</h4>
 1. Object Detection
 Uses a YOLOv8 AI model to detect over 80 different objects
 Draws colored boxes around everything it sees
