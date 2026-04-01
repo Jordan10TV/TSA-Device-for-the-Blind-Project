@@ -80,22 +80,24 @@ Click Install Now
 
 STEP 2 — Open Terminal
 Press Windows + R
-Type powershell
+Type <code>powershell</code>
 Hit Enter
 
 
 STEP 3 — Install Libraries Copy and paste each line and hit Enter:
+<code>
 python -m pip install opencv-python
 python -m pip install opencv-contrib-python
 python -m pip install ultralytics
 python -m pip install numpy
 python -m pip install pyttsx3
+</code>
 
 STEP 4 - Copy the file TSA_project.py from this repository to a folder on your computer
 
 STEP 5 — Change to the download folder and run the Program
 <code>
-cd <TSA Project Folder>
+cd &gt;TSA Project Folder&lt;
 python TSA_project.py
 </code>
 
