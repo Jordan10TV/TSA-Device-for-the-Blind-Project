@@ -97,7 +97,7 @@ cd <TSA Project Folder>
 python TSA_project.py
 
 
-<h4>Screenshots </h4>
+<h4>Screenshots</h4>
 
 <img width="948" height="529" alt="Screenshot 2026-03-31 204311" src="https://github.com/user-attachments/assets/f19a899c-ce0c-4948-8eac-bd11702a5b37" />
 
@@ -105,7 +105,7 @@ This screenshot shows a known face recognized by the application. Once recognize
 
 <img width="950" height="713" alt="Screenshot 2026-03-31 203618" src="https://github.com/user-attachments/assets/c75cefc0-c4dc-4643-aaca-2dd427d2d66a" />
 
-This screenshots shows the welcome banner of the application. It is purposely displayed in high contract large fonts for the visually impaired.
+This screenshot shows the welcome banner of the application. It is purposely displayed in high contract large fonts for the visually impaired.
 
 
 
