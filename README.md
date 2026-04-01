@@ -73,8 +73,8 @@ NumPy
 <h4>INSTALLATION INSTRUCTIONS</h4>
 
 STEP 1 — Install Python
-Go to <a href="http://python.org/downloads" /a>
-Download Python 3.11.9
+Go to https://www.python.org/downloads/release/python-31115/
+Download Python 3.11.x
 Run installer and check "Add Python to PATH"
 Click Install Now
 STEP 2 — Open Terminal
@@ -90,16 +90,22 @@ python -m pip install ultralytics
 python -m pip install numpy
 python -m pip install pyttsx3
 
-STEP 4 — Run the Program
-cd Downloads
+STEP 4 - Copy the file TSA_project.py from this repository to a folder on your computer
+
+STEP 5 — Change to the download folder and run the Program
+cd <TSA Project Folder>
 python TSA_project.py
 
 
-Screenshots 
+<h4>Screenshots </h4>
 
 <img width="948" height="529" alt="Screenshot 2026-03-31 204311" src="https://github.com/user-attachments/assets/f19a899c-ce0c-4948-8eac-bd11702a5b37" />
+
+This screenshot shows
+
 <img width="950" height="713" alt="Screenshot 2026-03-31 203618" src="https://github.com/user-attachments/assets/c75cefc0-c4dc-4643-aaca-2dd427d2d66a" />
 
+This screenshots shows something else
 
 
 
