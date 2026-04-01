@@ -1,0 +1,53 @@
+BLIND ASSIST GOGGLES By: Jordan Arbeeny and Braden Harris TSA 2026
+
+WHAT IS IT? A wearable AI powered device designed to help blind and visually impaired people navigate the world safely. The program uses a camera to detect objects and people in real time and tells the user what is around them through voice alerts.
+
+HOW IT WORKS
+1. Object Detection
+Uses a YOLOv8 AI model to detect over 80 different objects
+Draws colored boxes around everything it sees
+Tells the user what the object is and where it is
+2. Distance Warning
+Measures how close objects are based on box size
+Green = far away, safe
+Orange = getting close, caution
+Red = very close, danger
+3. Position Alerts
+Tells the user if something is on their left, right, or straight ahead
+Example: "Warning! Chair on your left"
+4. Face Recognition
+Detects and recognizes familiar faces
+Learns and remembers faces permanently
+Says the persons name when it sees them
+Example: "Warning! Mom on your right"
+5. Voice Alerts
+Speaks all warnings out loud in real time
+3 different voices to choose from
+Can be muted and unmuted at any time
+6. Time Awareness
+Announces the time when the program starts
+Says good morning, good afternoon, or good evening
+Updates the time every 10 minutes
+7. Clear Path
+Says "Clear path ahead" when nothing is detected nearby
+
+CONTROLS
+Key
+Action
+P
+Mute / Unmute voice
+V
+Cycle through voices
+N
+Name a detected face
+Q
+Quit
+
+
+TECHNOLOGY USED
+Python 3.11
+OpenCV 
+YOLOv8
+Windows Speech Synthesis
+NumPy
+
