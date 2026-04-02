@@ -1,6 +1,5 @@
 <h1>INTELLIGENT AGENT FOR THE VISION IMPAIRED</h1>
 <h3>By: Jordan Arbeeny and Braden Harris 
-<h4>Christian Brothers Academy</h4>
 <h4>TSA 2026</h4>
 
 <h4>WHAT IS IT?</h4> A wearable AI powered device designed to help blind and visually impaired people navigate the world safely. The program uses a camera to detect objects and people in real time and tells the user what is around them through voice alerts.
@@ -51,18 +50,6 @@ Says "Clear path ahead" when nothing is detected nearby
 </ol>
 <br>
 
-<h4>KEYBOARD COMMANDS</h4>
-<table>
-<tr><th>Key</th><th>Action</th></tr>
-<tr><td>P</td><td>Mute / Unmute Voice</td></tr>
-<tr><td>V</td><td>Cycle through voices</td></tr>
-<tr><td>N</td><td>Name a detected face</td></tr>
-<tr><td>Q</td><td>Quit</td></tr>
-
-  
-</table>
-
-
 <h4>TECHNOLOGY USED</h4>
 Python 3.11
 OpenCV 
@@ -106,11 +93,13 @@ python TSA_project.py
 
 <img width="948" height="529" alt="Screenshot 2026-03-31 204311" src="https://github.com/user-attachments/assets/f19a899c-ce0c-4948-8eac-bd11702a5b37" />
 
-This screenshot shows a known face recognized by the application. Once recognized, the application will speak the name of the person that was detected.
+This screenshot shows a known face recognized by the application. Once recognized, the application will speak the name of the person that was detected. Also shows the mute button. 
 
 <img width="950" height="713" alt="Screenshot 2026-03-31 203618" src="https://github.com/user-attachments/assets/c75cefc0-c4dc-4643-aaca-2dd427d2d66a" />
 
-This screenshot shows the welcome banner of the application. It is purposely displayed in high contract large fonts for the visually impaired.
+This screenshot shows the loading screen of the program.
+
+
 
 
 
